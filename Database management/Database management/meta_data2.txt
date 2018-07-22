@@ -1,0 +1,5 @@
+1
+sailors
+3
+sid,sname,rating
+int,string,int

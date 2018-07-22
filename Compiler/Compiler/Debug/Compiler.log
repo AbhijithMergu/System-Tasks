@@ -1,0 +1,20 @@
+﻿Build started 6/3/2018 11:53:59 AM.
+     1>Project "E:\mac_stuff\Summer\Compiler\Compiler\Compiler.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp execution.cpp
+         execution.cpp
+     1>e:\mac_stuff\summer\compiler\compiler\execution.cpp(146): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         Source.cpp
+         Generating Code...
+     1>e:\mac_stuff\summer\compiler\compiler\source.cpp(227): warning C4715: 'get_symbol_offset' : not all control paths return a value
+     1>e:\mac_stuff\summer\compiler\compiler\source.cpp(462): warning C4715: 'pop_stack' : not all control paths return a value
+     1>e:\mac_stuff\summer\compiler\compiler\source.cpp(530): warning C4715: 'is_label' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mac_stuff\Summer\Compiler\Debug\Compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mac_stuff\Summer\Compiler\Debug\Compiler.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mac_stuff\Summer\Compiler\Debug\Compiler.lib" /MACHINE:X86 Debug\execution.obj
+         Debug\Source.obj
+         Compiler.vcxproj -> E:\mac_stuff\Summer\Compiler\Debug\Compiler.exe
+     1>Done Building Project "E:\mac_stuff\Summer\Compiler\Compiler\Compiler.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.38

@@ -1,0 +1,6 @@
+abhi_mac,abhijith,0
+abhi_mac2,abhijith2,0
+abhi_mac2,abhijith2,1
+abhi_mac2,abhijith2,1
+abhi_mac2,abhi,1
+abhi_mac3,abhijith3,0
